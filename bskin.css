@@ -648,7 +648,7 @@ font-family: 'Righteous', cursive;
 }
 .header-logo-desc span {
     font-size: 31px;
-    color: #f6dea6;
+    color: $maincolor;
 }
 .header-logo-desc p {
 display: inline-block;
